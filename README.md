@@ -1,2 +1,3 @@
-"# LeetCode-Solutions-Python" 
-"*still under development*" 
+# LeetCode-Solutions-Python
+
+*still under development*
